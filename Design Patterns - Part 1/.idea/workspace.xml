@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9ad9262-4270-484c-baf8-a32ad02e5dae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YXm2nLH008qMVNL1pSIzzL4cyI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9ad9262-4270-484c-baf8-a32ad02e5dae" name="Default Changelist" comment="" />
+      <created>1583097109702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583097109702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="125" width="424" height="482" key="FileChooserDialogImpl" timestamp="1584272421775">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="461" y="125" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.682@0.27.1366.682" timestamp="1584272421775" />
+    <state x="339" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583097118492">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="339" y="195" key="com.intellij.ide.util.TipDialog/0.27.1366.682@0.27.1366.682" timestamp="1583097118492" />
+    <state x="0" y="27" width="1356" height="680" key="new project wizard" timestamp="1583097829595">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="0" y="27" width="1356" height="680" key="new project wizard/0.27.1366.682@0.27.1366.682" timestamp="1583097829595" />
+  </component>
+</project>
