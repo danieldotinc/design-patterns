@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e00fccb7-aa77-4407-ace5-1ab3c6c47b84" name="Default Changelist" comment="" />
+    <list default="true" id="e00fccb7-aa77-4407-ace5-1ab3c6c47b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/iterator/course/02 Iterator Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/iterator/course/BrowseHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/iterator/course/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/memento/00 Memento Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/memento/00 Memento Pattern - 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/Bicycling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/Driving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/ITravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/Transit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/01 State Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/01 State Pattern - 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/01 State Pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/BrushIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/IconType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/SelectionIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/course/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/AESEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/DESEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/IEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/course/03 Strategy Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/course/03 Strategy Pattern - 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/course/03 Strategy Pattern - 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/04 Template Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/VSCodeWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/course/Auditrail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/course/BaseTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/course/GenerateReportTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/course/MoneyTransferTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/.idea/design-patterns-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/design-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/com/bacc/designpatterns/strategy/03 Strategy Pattern - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/com/bacc/designpatterns/strategy/03 Strategy Pattern - 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/com/bacc/designpatterns/strategy/03 Strategy Pattern - 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-practice/src/com/bacc/designpatterns/template/04 Template Pattern - 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/memento/DocHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/memento/DocHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/state/DirectionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/state/DirectionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/strategy/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/strategy/ChatClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/template/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/com/codewithmosh/template/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/memento/DocHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/memento/DocHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/state/DirectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/state/DirectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/strategy/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/strategy/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/template/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/template/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/META-INF/design-patterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/iterator/BrowseHistory$ArrayIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/iterator/BrowseHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/state/BrushIcon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/state/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/state/IconType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/state/SelectionIcon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/state/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/BlackAndWhiteFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/HighContrastFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/ICompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/IFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/ImageStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/JPEGCompress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/design-patterns/com/bacc/designpatterns/strategy/PNGCompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/iterator/BrowseHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/iterator/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/state/BrushIcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/state/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/state/IconType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/state/SelectionIcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/state/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/BlackAndWhiteFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/HighContrastFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/ICompressor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/IFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/ImageStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/JPEGCompress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/bacc/designpatterns/strategy/PNGCompression.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,23 +104,46 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1YDk5vSrkh1YHxkYfXJcA9FVuqv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/codewithmosh/strategy/course" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/strategy/course" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/iterator/course" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/state/course" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/state/course" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/iterator/course" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/template" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/strategy" />
+      <recent name="$PROJECT_DIR$/src/com/codewithmosh/iterator" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -61,38 +175,53 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="175" y="0" key="#Project_Structure" timestamp="1582484387990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582484387990" />
-    <state x="491" y="82" width="374" height="573" key="#com.intellij.ide.util.MemberChooser" timestamp="1584273356027">
+    <state x="491" y="82" width="374" height="573" key="#com.intellij.ide.util.MemberChooser" timestamp="1584886066273">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
-    <state x="491" y="82" width="374" height="573" key="#com.intellij.ide.util.MemberChooser/0.27.1366.682@0.27.1366.682" timestamp="1584273356027" />
+    <state x="491" y="82" width="374" height="573" key="#com.intellij.ide.util.MemberChooser/0.27.1366.682@0.27.1366.682" timestamp="1584886066273" />
     <state x="524" y="262" width="308" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584272550092">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state x="524" y="262" width="308" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.682@0.27.1366.682" timestamp="1584272550092" />
-    <state width="1320" height="194" key="GridCell.Tab.0.bottom" timestamp="1584286567104">
+    <state x="466" y="128" width="424" height="482" key="FileChooserDialogImpl" timestamp="1584875694107">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="466" y="128" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.682@0.27.1366.682" timestamp="1584875694107" />
+    <state width="1320" height="194" key="GridCell.Tab.0.bottom" timestamp="1584886206083">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state width="1311" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582485024164" />
-    <state width="1320" height="194" key="GridCell.Tab.0.bottom/0.27.1366.682@0.27.1366.682" timestamp="1584286567104" />
-    <state width="1320" height="194" key="GridCell.Tab.0.center" timestamp="1584286567102">
+    <state width="1320" height="194" key="GridCell.Tab.0.bottom/0.27.1366.682@0.27.1366.682" timestamp="1584886206083" />
+    <state width="1320" height="194" key="GridCell.Tab.0.center" timestamp="1584886206082">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state width="1311" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582485024164" />
-    <state width="1320" height="194" key="GridCell.Tab.0.center/0.27.1366.682@0.27.1366.682" timestamp="1584286567102" />
-    <state width="1320" height="194" key="GridCell.Tab.0.left" timestamp="1584286567101">
+    <state width="1320" height="194" key="GridCell.Tab.0.center/0.27.1366.682@0.27.1366.682" timestamp="1584886206082" />
+    <state width="1320" height="194" key="GridCell.Tab.0.left" timestamp="1584886206082">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state width="1311" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582485024164" />
-    <state width="1320" height="194" key="GridCell.Tab.0.left/0.27.1366.682@0.27.1366.682" timestamp="1584286567101" />
-    <state width="1320" height="194" key="GridCell.Tab.0.right" timestamp="1584286567103">
+    <state width="1320" height="194" key="GridCell.Tab.0.left/0.27.1366.682@0.27.1366.682" timestamp="1584886206082" />
+    <state width="1320" height="194" key="GridCell.Tab.0.right" timestamp="1584886206083">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state width="1311" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582485024164" />
-    <state width="1320" height="194" key="GridCell.Tab.0.right/0.27.1366.682@0.27.1366.682" timestamp="1584286567103" />
+    <state width="1320" height="194" key="GridCell.Tab.0.right/0.27.1366.682@0.27.1366.682" timestamp="1584886206083" />
+    <state x="172" y="27" width="1002" height="682" key="SettingsEditor" timestamp="1584298423295">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="172" y="27" width="1002" height="682" key="SettingsEditor/0.27.1366.682@0.27.1366.682" timestamp="1584298423295" />
+    <state x="347" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1584298052502">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="347" y="17" width="672" height="676" key="search.everywhere.popup/0.27.1366.682@0.27.1366.682" timestamp="1584298052502" />
   </component>
 </project>

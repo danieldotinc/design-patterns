@@ -12,9 +12,13 @@ public class DocHistory {
 
     public DocState pop () {
         int lastIndex = states.size() - 1;
-        DocState lastState = states.get(lastIndex);
-        states.remove(lastIndex);
 
-        return lastState;
+        if (lastIndex >= 0) {
+            DocState lastState = states.get(lastIndex);
+            states.remove(lastIndex);
+            return lastState;
+        }
+
+        return states.get(0);
     }
 }
