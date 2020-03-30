@@ -1,8 +1,13 @@
 package com.codewithmosh.observer;
 
-public class Stock {
+public class Stock extends Subject{
+
     private String symbol;
     private float price;
+
+    public String getSymbol() {
+        return symbol;
+    }
 
     public Stock(String symbol, float price) {
         this.symbol = symbol;
@@ -15,6 +20,7 @@ public class Stock {
 
     public void setPrice(float price) {
         this.price = price;
+        notifyObservers(this);
     }
 
     @Override
