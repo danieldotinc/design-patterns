@@ -1,6 +1,8 @@
 package com.codewithmosh;
 
 
+import com.codewithmosh.chainOfResponsibility.*;
+import com.codewithmosh.chainOfResponsibility.Number;
 import com.codewithmosh.command.course.AddCustomerCommand;
 import com.codewithmosh.command.course.CallCustomerCommand;
 import com.codewithmosh.command.course.CustomerService;
@@ -14,6 +16,7 @@ import com.codewithmosh.iterator.Iterator;
 import com.codewithmosh.iterator.Product;
 import com.codewithmosh.iterator.ProductCollection;
 import com.codewithmosh.iterator.course.BrowseHistory;
+import com.codewithmosh.mediator.SignUpDialogBox;
 import com.codewithmosh.mediator.course.ArticleDialogBox;
 import com.codewithmosh.mediator.course.observer.ArticleEventHandler;
 import com.codewithmosh.memento.DocHistory;
@@ -49,17 +52,35 @@ public class Main {
         //execTemplatePattern();
         //execCommandPattern();
         //execObserverPattern();
-        executeMediatorPattern();
+        //execMediatorPattern();
+        //execChainOfResponsibility();
     }
 
-    private static void executeMediatorPattern() {
+    private static void execChainOfResponsibility() {
+        DataReader dataReader = new DataReader(
+                new Excel(new Number(new QuickBook(
+                        new NotSupportedData(null)))));
+
+        dataReader.read("account.qbw");
+        dataReader.read("account.numbers");
+        dataReader.read("account.xls");
+        dataReader.read("account.jpg");
+
+    }
+
+    private static void execMediatorPattern() {
         //course
-//        ArticleDialogBox dialogBox = new ArticleDialogBox();
-//        dialogBox.simulateUserInteraction();
+        ArticleDialogBox dialogBox = new ArticleDialogBox();
+        dialogBox.simulateUserInteraction();
 
         //MediatorPattern using observer
         ArticleEventHandler eventHandler = new ArticleEventHandler();
         eventHandler.simulateUserInteraction();
+
+        //exercise
+        SignUpDialogBox dialogBox1 = new SignUpDialogBox();
+        dialogBox1.simulateUserInteraction();
+
     }
 
     private static void execObserverPattern() {
