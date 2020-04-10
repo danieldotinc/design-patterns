@@ -46,7 +46,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         //execMementoPattern();
-        //execStatePattern();
+        execStatePattern();
         //execIteratorPattern();
         //execStrategyPattern();
         //execTemplatePattern();
@@ -187,6 +187,7 @@ public class Main {
         DirectionService walking = new DirectionService(new Walking());
         System.out.println(walking.getDirection());
         System.out.println(walking.getEta());
+
 
         DirectionService bicycling = new DirectionService(new Bicycling());
         System.out.println(bicycling.getDirection());
