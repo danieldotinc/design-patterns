@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53e61a27-52ca-4659-bf3f-634487565579" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/Bicycling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/Driving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/ITravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/Transit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/Walking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-practice/design-patterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/memento/DocHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/memento/DocHistory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/state/DirectionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/out/production/Exercises/com/codewithmosh/state/DirectionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/memento/DocHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/memento/DocHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/DirectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/state/DirectionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/strategy/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns - Part 1/Exercises/src/com/codewithmosh/strategy/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/META-INF/design-patterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/iterator/BrowseHistory$ArrayIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/iterator/BrowseHistory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/iterator/Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/state/BrushIcon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/state/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/state/IconType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/state/SelectionIcon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/state/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/BlackAndWhiteFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/HighContrastFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/ICompressor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/IFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/ImageStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/JPEGCompress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/com/bacc/designpatterns/strategy/PNGCompression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/iterator/BrowseHistory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/iterator/Iterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/state/BrushIcon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/state/Canvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/state/IconType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/state/SelectionIcon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/state/Tool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/BlackAndWhiteFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/HighContrastFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/ICompressor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/IFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/ImageStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/JPEGCompress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bacc/designpatterns/strategy/PNGCompression.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,12 +25,11 @@
   <component name="ProjectId" id="1YXnVQLVFFN1s2ki4rblzt6cbRz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Design Patterns - Part 1/Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Design Patterns - Part 1" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
@@ -116,10 +67,11 @@
       <screen x="0" y="27" width="1366" height="682" />
     </state>
     <state x="491" y="82" width="374" height="573" key="#com.intellij.ide.util.MemberChooser/0.27.1366.682@0.27.1366.682" timestamp="1583607712215" />
-    <state x="466" y="128" width="424" height="482" key="FileChooserDialogImpl" timestamp="1584296454307">
-      <screen x="0" y="27" width="1366" height="682" />
+    <state x="466" y="137" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586512772498">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="128" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.682@0.27.1366.682" timestamp="1584296454307" />
+    <state x="466" y="137" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1586512772498" />
     <state width="1320" height="194" key="GridCell.Tab.0.bottom" timestamp="1584296373709">
       <screen x="0" y="27" width="1366" height="682" />
     </state>

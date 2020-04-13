@@ -40,13 +40,21 @@ import com.codewithmosh.strategy.course.*;
 import com.codewithmosh.template.VSCodeWin;
 import com.codewithmosh.template.course.GenerateReportTask;
 import com.codewithmosh.template.course.MoneyTransferTask;
+import com.codewithmosh.visitor.AddReverbOperation;
+import com.codewithmosh.visitor.NormalizeOperation;
+import com.codewithmosh.visitor.ReduceNoiseOperation;
+import com.codewithmosh.visitor.WavFile;
+import com.codewithmosh.visitor.course.AnchorNode;
+import com.codewithmosh.visitor.course.HeadingNode;
+import com.codewithmosh.visitor.course.HighlightOperation;
+import com.codewithmosh.visitor.course.PlainTextOperation;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
         //execMementoPattern();
-        execStatePattern();
+        //execStatePattern();
         //execIteratorPattern();
         //execStrategyPattern();
         //execTemplatePattern();
@@ -54,6 +62,22 @@ public class Main {
         //execObserverPattern();
         //execMediatorPattern();
         //execChainOfResponsibility();
+        //execVisitorPattern();
+    }
+
+    private static void execVisitorPattern() {
+        com.codewithmosh.visitor.course.HtmlDocument htmlDocument = new com.codewithmosh.visitor.course.HtmlDocument();
+        htmlDocument.addNode(new HeadingNode());
+        htmlDocument.addNode(new AnchorNode());
+
+        htmlDocument.execute(new HighlightOperation());
+        htmlDocument.execute(new PlainTextOperation());
+
+        //practice
+        //WavFile wavFile = WavFile.read("Desire-Yanni.mp3");
+        //wavFile.execute(new ReduceNoiseOperation());
+        //wavFile.execute(new AddReverbOperation());
+        //wavFile.execute(new NormalizeOperation());
     }
 
     private static void execChainOfResponsibility() {

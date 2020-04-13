@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ad9262-4270-484c-baf8-a32ad02e5dae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/out/production/Exercises/META-INF/Exercises.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/out/production/Exercises/com/codewithmosh/template/04 Template Pattern - 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/com/codewithmosh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercises/out/production/Exercises" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,15 +38,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586511911184">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586513601585">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586511911184" />
-    <state x="461" y="133" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586511971326">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586513601585" />
+    <state x="415" y="189" width="525" height="414" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586513598509">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="189" width="525" height="414" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1586513598509" />
+    <state x="461" y="133" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586513644851">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="125" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.682@0.27.1366.682" timestamp="1584272421775" />
-    <state x="461" y="133" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1586511971326" />
+    <state x="461" y="133" width="424" height="482" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1586513644851" />
     <state x="339" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583097118492">
       <screen x="0" y="27" width="1366" height="682" />
     </state>
