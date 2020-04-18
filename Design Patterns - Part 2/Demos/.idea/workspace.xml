@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0d0f1d3-da94-47c3-a25b-6a15afe2d20c" name="Default Changelist" comment="" />
+    <list default="true" id="d0d0f1d3-da94-47c3-a25b-6a15afe2d20c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/ErrorMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/ExcludedMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/MainMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/NotCommittedMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/CheckBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/MailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/TaxCalculator2019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/TaxCalculator2020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/UIControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/ImageView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/ImageView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/VividFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/VividFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/avaFilters/Caramel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/adapter/avaFilters/Caramel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/AdvancedRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/AdvancedRemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/Device.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/RemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/SamsungTV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/SamsungTV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/SonyTV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/bridge/SonyTV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Authenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Encryptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/HttpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/WebServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/AddCustomerCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/BlackAndWhiteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/CompositeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/ResizeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/BoldCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/HistoryStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/HtmlDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/UndoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/editor/UndoableCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/fx/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/command/fx/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/composite/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/CloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/CloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/CompressedCloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/CompressedCloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/EncryptedCloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/EncryptedCloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/decorator/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/AuthToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/AuthToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/NotificationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/NotificationServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/facade/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIcon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIcon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIconFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIconFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/flyweight/PointType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/iterator/BrowseHistory$ArrayIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/iterator/BrowseHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/ArticlesDialogBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/EventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/ListBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/mediator/UIControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/memento/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/memento/EditorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/memento/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/observer/Chart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/observer/DataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/observer/SpreadSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/Ebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/Ebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/EbookProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/EbookProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/LoggingEbookProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/LoggingEbookProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/RealEbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/proxy/RealEbook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/BrushTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/EraserTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/SelectionTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/ToolType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/abuse/RunningState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/abuse/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/abuse/StoppedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/state/abuse/Stopwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/BlackAndWhiteFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/Compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/ImageStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/JpegCompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/strategy/PngCompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/template/AuditTrail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/template/GenerateReportTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/template/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/template/TransferMoneyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/AnchorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/HeadingNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/HighlightOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/HtmlDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/HtmlNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/codewithmosh/visitor/PlainTextOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Artefact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Artefact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Editor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +159,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -52,9 +177,10 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.codewithmosh.Main" />
       <module name="DesignPatterns" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -80,77 +206,30 @@
     </task>
     <servers />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>DesignPatterns</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="166" y="27" width="1024" height="739" key="#Project_Structure" timestamp="1587203243760">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="739" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1587203243760" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587203228317">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1587203228317" />
+    <state width="1320" height="326" key="GridCell.Tab.0.bottom" timestamp="1587203606178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="326" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1587203606178" />
+    <state width="1320" height="326" key="GridCell.Tab.0.center" timestamp="1587203606177">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="326" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1587203606177" />
+    <state width="1320" height="326" key="GridCell.Tab.0.left" timestamp="1587203606177">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="326" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1587203606177" />
+    <state width="1320" height="326" key="GridCell.Tab.0.right" timestamp="1587203606178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="326" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1587203606178" />
   </component>
 </project>

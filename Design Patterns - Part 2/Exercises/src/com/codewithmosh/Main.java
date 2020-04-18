@@ -1,13 +1,16 @@
 package com.codewithmosh;
 
-import com.codewithmosh.composite.Demo;
-
 public class Main {
     public static void main(String[] args) {
-        execCompositePattern();
+        //execCompositePattern();
+        //execDecoratorPattern();
+    }
+
+    private static void execDecoratorPattern() {
+        com.codewithmosh.decorator.Demo.show();
     }
 
     private static void execCompositePattern() {
-        Demo.show();
+        com.codewithmosh.composite.Demo.show();
     }
 }

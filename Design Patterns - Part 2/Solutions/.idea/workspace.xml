@@ -1,9 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fc2926f-b420-46ae-8ab8-5fd59470086b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8fc2926f-b420-46ae-8ab8-5fd59470086b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/ErrorMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/ExcludedMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/MainMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/NotCommittedMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/CheckBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/MailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/TaxCalculator2019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/TaxCalculator2020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/UIControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/CaramelFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/ImageView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/ImageView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/VividFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/VividFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/avaFilters/Caramel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/adapter/avaFilters/Caramel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/AdvancedRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/AdvancedRemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/Device.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/RemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/SamsungTV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/SamsungTV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/SonyTV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/bridge/SonyTV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Authenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Encryptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/HttpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/chainOfResponsibility/WebServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/AddCustomerCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/BlackAndWhiteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/CompositeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/ResizeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/BoldCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/HistoryStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/HtmlDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/UndoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/editor/UndoableCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/fx/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/command/fx/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/composite/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/CloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/CloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/CompressedCloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/CompressedCloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/EncryptedCloudStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/EncryptedCloudStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/decorator/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/AuthToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/AuthToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/NotificationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/NotificationServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/facade/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIcon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIcon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIconFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointIconFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/flyweight/PointType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/iterator/BrowseHistory$ArrayIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/iterator/BrowseHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/ArticlesDialogBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/EventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/ListBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/mediator/UIControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/memento/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/memento/EditorState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/memento/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/observer/Chart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/observer/DataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/observer/SpreadSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/Ebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/Ebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/EbookProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/EbookProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/LoggingEbookProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/LoggingEbookProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/RealEbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/proxy/RealEbook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/BrushTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/EraserTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/SelectionTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/ToolType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/abuse/RunningState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/abuse/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/abuse/StoppedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/state/abuse/Stopwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/BlackAndWhiteFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/Compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/ImageStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/JpegCompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/strategy/PngCompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/template/AuditTrail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/template/GenerateReportTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/template/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/template/TransferMoneyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/AnchorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/HeadingNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/HighlightOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/HtmlDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/HtmlNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/out/production/DesignPatterns/com/codewithmosh/visitor/PlainTextOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Artefact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Artefact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/decorator/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +134,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,93 +143,19 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/composite/HumanResource.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/composite/Truck.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/composite/Resource.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/composite/Team.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/GmailAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/MailProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/EmailProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/MailClient.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/EmailClient.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/adapter/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/facade/TwitterAPI.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/facade/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/CharacterContext.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/Character.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/Letter.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/CharacterContextFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/Document.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/Cell.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/CellContextFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/CellContext.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/flyweight/SpreadSheet.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/proxy/DbContext.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/ArtefactDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/AbstractArtefact.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/Artefact.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/MainDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/ErrorDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/decorator/Editor.java" />
-        <option value="$PROJECT_DIR$/src/com/codewithmosh/Main.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1224" />
-    <option name="height" value="903" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codewithmosh" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ai869VzwMWCqAqOmyYWnO8F2lC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -140,227 +186,5 @@
       <updated>1579636214242</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1224" height="903" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2859477" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/composite/HumanResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/composite/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/composite/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/composite/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/adapter/GmailAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/adapter/EmailProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/adapter/EmailClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/adapter/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/facade/TwitterAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/facade/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="89" column="2" lean-forward="true" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/CharacterContext.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/Letter.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/CharacterContextFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/Document.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/AbstractArtefact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/MainDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/ErrorDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/Artefact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/decorator/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/CellContextFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="28" column="3" selection-start-line="26" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/SpreadSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/proxy/DbContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/flyweight/CellContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codewithmosh/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
