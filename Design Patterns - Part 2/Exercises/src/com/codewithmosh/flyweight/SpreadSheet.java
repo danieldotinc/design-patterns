@@ -4,15 +4,12 @@ public class SpreadSheet {
   private final int MAX_ROWS = 3;
   private final int MAX_COLS = 3;
 
-  // In a real app, these values should not be hardcoded here.
-  // They should be read from a configuration file.
-  private final String fontFamily = "Times New Roman";
-  private final int fontSize = 12;
-  private final boolean isBold = false;
 
   private Cell[][] cells = new Cell[MAX_ROWS][MAX_COLS];
+  private CellFormatFactory formatFactory;
 
-  public SpreadSheet() {
+  public SpreadSheet(CellFormatFactory formatFactory) {
+    this.formatFactory = formatFactory;
     generateCells();
   }
 
@@ -26,7 +23,9 @@ public class SpreadSheet {
     ensureCellExists(row, col);
 
     var cell = cells[row][col];
-    cells[row][col].setFontFamily(fontFamily);
+    CellFormat currentCellFormat = cell.getCellFormat();
+    CellFormat cellFormat = formatFactory.getCellFormat(fontFamily, currentCellFormat.getFontSize(),currentCellFormat.isBold());
+    cells[row][col].setCellFormat(cellFormat);
   }
 
   private void ensureCellExists(int row, int col) {
@@ -40,10 +39,18 @@ public class SpreadSheet {
   private void generateCells() {
     for (var row = 0; row < MAX_ROWS; row++)
       for (var col = 0; col < MAX_COLS; col++) {
-        var cell = new Cell(row, col);
-        cell.setFontFamily(fontFamily);
+        var cell = new Cell(row, col, defaultCellFormat());
         cells[row][col] = cell;
       }
+  }
+
+  private CellFormat defaultCellFormat(){
+    // In a real app, these values should not be hardcoded here.
+    // They should be read from a configuration file.
+    String fontFamily = "Times New Roman";
+    int fontSize = 12;
+    boolean isBold = false;
+    return new CellFormat(fontFamily,fontSize,isBold);
   }
 
   public void render() {

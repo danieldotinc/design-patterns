@@ -4,7 +4,12 @@ public class Main {
     public static void main(String[] args) {
         //execCompositePattern();
         //execDecoratorPattern();
-        execFacadePattern();
+        //execFacadePattern();
+        //execFlyWeightPattern();
+    }
+
+    private static void execFlyWeightPattern() {
+        com.codewithmosh.flyweight.Demo.show();
     }
 
     private static void execFacadePattern() {

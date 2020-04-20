@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fc2926f-b420-46ae-8ab8-5fd59470086b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/facade/TwitterAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/facade/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/facade/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/CellFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/CellFormatFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design Patterns - Part 1/Demos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Design Patterns - Part 1/Demos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/flyweight/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/flyweight/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/flyweight/SpreadSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/out/production/Exercises/com/codewithmosh/flyweight/SpreadSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/SpreadSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/flyweight/SpreadSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
